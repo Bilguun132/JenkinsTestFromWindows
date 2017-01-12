@@ -1,0 +1,9 @@
+c:\users\t_batbb\documents\visual studio 2012\Projects\JinkensTest\JinkensTest\obj\Debug\JinkensTest.csprojResolveAssemblyReference.cache
+c:\users\t_batbb\documents\visual studio 2012\Projects\JinkensTest\JinkensTest\obj\Debug\UserControl1.baml
+c:\users\t_batbb\documents\visual studio 2012\Projects\JinkensTest\JinkensTest\obj\Debug\UserControl1.g.cs
+c:\users\t_batbb\documents\visual studio 2012\Projects\JinkensTest\JinkensTest\obj\Debug\JinkensTest_MarkupCompile.cache
+c:\users\t_batbb\documents\visual studio 2012\Projects\JinkensTest\JinkensTest\obj\Debug\JinkensTest.g.resources
+c:\users\t_batbb\documents\visual studio 2012\Projects\JinkensTest\JinkensTest\bin\Debug\JinkensTest.dll
+c:\users\t_batbb\documents\visual studio 2012\Projects\JinkensTest\JinkensTest\bin\Debug\JinkensTest.pdb
+c:\users\t_batbb\documents\visual studio 2012\Projects\JinkensTest\JinkensTest\obj\Debug\JinkensTest.dll
+c:\users\t_batbb\documents\visual studio 2012\Projects\JinkensTest\JinkensTest\obj\Debug\JinkensTest.pdb

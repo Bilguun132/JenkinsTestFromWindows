@@ -1,0 +1,15 @@
+c:\users\t_batbb\documents\visual studio 2012\Projects\JinkensTest\Test\bin\Debug\Test.exe.config
+c:\users\t_batbb\documents\visual studio 2012\Projects\JinkensTest\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\t_batbb\documents\visual studio 2012\Projects\JinkensTest\Test\obj\Debug\MainWindow.baml
+c:\users\t_batbb\documents\visual studio 2012\Projects\JinkensTest\Test\obj\Debug\MainWindow.g.cs
+c:\users\t_batbb\documents\visual studio 2012\Projects\JinkensTest\Test\obj\Debug\App.g.cs
+c:\users\t_batbb\documents\visual studio 2012\Projects\JinkensTest\Test\obj\Debug\Test_MarkupCompile.cache
+c:\users\t_batbb\documents\visual studio 2012\Projects\JinkensTest\Test\obj\Debug\Test.g.resources
+c:\users\t_batbb\documents\visual studio 2012\Projects\JinkensTest\Test\obj\Debug\Test.Properties.Resources.resources
+c:\users\t_batbb\documents\visual studio 2012\Projects\JinkensTest\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+c:\users\t_batbb\documents\visual studio 2012\Projects\JinkensTest\Test\bin\Debug\Test.exe
+c:\users\t_batbb\documents\visual studio 2012\Projects\JinkensTest\Test\bin\Debug\Test.pdb
+c:\users\t_batbb\documents\visual studio 2012\Projects\JinkensTest\Test\bin\Debug\JinkensTest.dll
+c:\users\t_batbb\documents\visual studio 2012\Projects\JinkensTest\Test\bin\Debug\JinkensTest.pdb
+c:\users\t_batbb\documents\visual studio 2012\Projects\JinkensTest\Test\obj\Debug\Test.exe
+c:\users\t_batbb\documents\visual studio 2012\Projects\JinkensTest\Test\obj\Debug\Test.pdb
